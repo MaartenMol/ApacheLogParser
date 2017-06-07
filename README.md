@@ -3,7 +3,7 @@
 ### Requirements
 - Python 3.5 (if running from source)
 
-You can also download a Windows build from: 
+You can also download a Windows build from: https://familie-mol.nl/public/LogParser.zip
 
 ### Configuration options
 - Debugging on or off, let's you choose to show or hide all logging and information notifications.

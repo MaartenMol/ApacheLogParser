@@ -15,10 +15,10 @@ If a config change required a restart of the tool, "Restart and go back to main 
 
 ## Previews
 ### Main Menu
-![](https://img.familie-mol.nl/COR8KGL.png)
+![](https://img.maartenmol.nl/COR8KGL.png)
 
 ### Settings menu
-![](https://img.familie-mol.nl/sJoGGvK.png)
+![](https://img.maartenmol.nl/sJoGGvK.png)
 
 ### Debugging
-![](https://img.familie-mol.nl/oNVMYZu.png)
+![](https://img.maartenmol.nl/oNVMYZu.png)
